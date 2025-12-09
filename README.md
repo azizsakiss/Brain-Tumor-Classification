@@ -60,7 +60,7 @@ We evaluated models using Confusion Matrices to visualize misclassifications. Th
 
 Clone the repository:
 
-git clone [https://github.com/your-username/brain-tumor-ensemble.git](https://github.com/your-username/brain-tumor-ensemble.git)
+git clone [https://github.com/azizsakiss/brain-tumor-ensemble.git](https://github.com/your-username/brain-tumor-ensemble.git)
 
 
 Install dependencies:
